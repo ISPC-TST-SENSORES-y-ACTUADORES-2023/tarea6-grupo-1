@@ -1,5 +1,7 @@
 # ¿Qué es el Protocolo ZigBee? ¿Dónde lo implementaría?
-Ver resolucion completa en pdf  Ejercicios/Tarea F/Punto 1-F_Actividad n6 - SilvanaBarea.pdf
+Ver resolucion completa en pdf  
+Ejercicios/Tarea F/Punto 1-F_Actividad n6 - SilvanaBarea.pdf
+
 
 referencias consultadas= contenido relacionado - enlaces de consulta
 
